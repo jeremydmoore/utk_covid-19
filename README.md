@@ -7,3 +7,9 @@ The [screenshot-and-ocr](https://github.com/jeremydmoore/utk_covid-19/blob/maste
 Currently I am only collecting data in the form of PNG screenshots and text files in the [data directory](https://github.com/jeremydmoore/utk_covid-19/tree/master/data). The files are named ```YYYY-MM-DD_HHMM``` with the HHMM in a 24-hr clock followed by either ```_screenshot``` or ```_covid-text```.
 
 Once I have collected more datapoints, I will begin parsing the COVID-19 text data.
+
+As of 2020-08-13, the dashboard I was pulling my data from is no longer active: https://veoci.com/veoci/p/form/4jmds5x4jj4j#tab=entryForm
+
+There are numbers on https://www.utk.edu/coronavirus/guides/data-monitoring-and-contingency-options, but they are presented via Google Studio graphs/charts that have different metrics.
+
+You can download CSV files from a Google Studio graph/chart, though, so I will investigate using Selenium to pull this data when time permits.
