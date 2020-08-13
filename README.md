@@ -8,7 +8,7 @@ Currently I am only collecting data in the form of PNG screenshots and text file
 
 Once I have collected more datapoints, I will begin parsing the COVID-19 text data.
 
-As of 2020-08-13, the dashboard I was pulling my data from is no longer active: https://veoci.com/veoci/p/form/4jmds5x4jj4j#tab=entryForm
+As of 2020-08-13, the dashboard I was pulling my data from is no longer active because the UTK facilities folks are able to clean areas so quickly space closing no longer need to be announced, simply cordoned off for cleaning and then re-opening: https://veoci.com/veoci/p/form/4jmds5x4jj4j#tab=entryForm
 
 There are numbers on https://www.utk.edu/coronavirus/guides/data-monitoring-and-contingency-options, but they are presented via Google Studio graphs/charts that have different metrics.
 
